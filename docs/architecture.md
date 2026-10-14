@@ -8,4 +8,4 @@
 ## Future Version (v2)
 - Ingestion: Azure Data Factory
 - Processing: Azure Databricks + PySpark
-- Storage: Delta Lake
+- Storage: Delta Lake. 
